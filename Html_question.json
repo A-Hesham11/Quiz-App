@@ -1,0 +1,426 @@
+[
+    {
+        "title": "Medical device is any article..... part or accessory manufactured for use in diagnosis, treatment,..... of disease in human",
+        "answer_1": "componenet, Allowance",
+        "answer_2": "Component, prevention",
+        "answer_3": "Instrument, preventation",
+        "answer_4": "Instrument, allowance",
+        "right_answer": "Instrument, preventation"
+    },
+    {
+        "title": " Medical devices can be classified by",
+        "answer_1": "operation",
+        "answer_2": "size",
+        "answer_3": "price",
+        "answer_4": "weight",
+        "right_answer": "operation"
+    },
+    {
+        "title": " Examples of diagnostic devices",
+        "answer_1": "Hearing aids ",
+        "answer_2": "wheelchair",
+        "answer_3": "pacemaker",
+        "answer_4": "x-ray",
+        "right_answer": "x-ray"
+    },
+    {
+        "title": " The conductive electrode gel classified in risk classification in class ………",
+        "answer_1": "1",
+        "answer_2": "2",
+        "answer_3": "3",
+        "answer_4": "4",
+        "right_answer": "1"
+    },    {
+        "title": " The defibrillators classified in risk classification in class ………",
+        "answer_1": "1",
+        "answer_2": "2",
+        "answer_3": "3",
+        "answer_4": "4",
+        "right_answer": "4"
+    },    {
+        "title": " Instruments operation modes can be classified as……",
+        "answer_1": "Real time & delayed time",
+        "answer_2": "Diagnostic & therapeutic",
+        "answer_3": "Simplex & duplex",
+        "answer_4": "Hardware and software",
+        "right_answer": "Real time & delayed time"
+    },    {
+        "title": "Body temperature device is an example of…….",
+        "answer_1": "Generating mode",
+        "answer_2": "analog mode",
+        "answer_3": "continous mode",
+        "answer_4": "sampling mode",
+        "right_answer": "sampling mode"
+    },    {
+        "title": "The photovoltaic cell is an example of……..",
+        "answer_1": "modulating mode",
+        "answer_2": "Direct mode",
+        "answer_3": "Generating mode ",
+        "answer_4": "indirect mode",
+        "right_answer": "Generating mode "
+    },    {
+        "title": "- Transducers work on the principle of",
+        "answer_1": "energy conversion",
+        "answer_2": "mass conversion",
+        "answer_3": "energy alteration",
+        "answer_4": "volume conversion",
+        "right_answer": "energy conversion"
+    },    {
+        "title": " Piezo-electricity is",
+        "answer_1": "Sound electricity",
+        "answer_2": "Pressure electricity",
+        "answer_3": "Temperature electricity",
+        "answer_4": "Photo electricity",
+        "right_answer": "Pressure electricity"
+    },    {
+        "title": "Strain Gauge is used to measure",
+        "answer_1": "Temperature",
+        "answer_2": "Pressure",
+        "answer_3": "Height",
+        "answer_4": "Displacement",
+        "right_answer": "Pressure"
+    },    {
+        "title": "RTD stands for ",
+        "answer_1": "Resistance temperature device",
+        "answer_2": "Resistance temperature detector",
+        "answer_3": "Reluctance thermal device",
+        "answer_4": "Resistive thermal detector",
+        "right_answer": "Resistance temperature device"
+    },    {
+        "title": "Thermistor is used to measure",
+        "answer_1": "Temperature",
+        "answer_2": "Pressure",
+        "answer_3": "Height",
+        "answer_4": "Displacement",
+        "right_answer": "Temperature"
+    },    {
+        "title": "As the Hight decrees the pressure",
+        "answer_1": "Decreases",
+        "answer_2": "Increases",
+        "answer_3": "doubled",
+        "answer_4": "vanishes",
+        "right_answer": "Increases"
+    },    {
+        "title": "133 mmHg in pa",
+        "answer_1": "17689",
+        "answer_2": "1",
+        "answer_3": "188.86",
+        "answer_4": "1253",
+        "right_answer": "17689"
+    },    {
+        "title": "A manometer is used to measure gas",
+        "answer_1": "Pressure",
+        "answer_2": "Temperature",
+        "answer_3": "Weight",
+        "answer_4": "Force",
+        "right_answer": "Pressure"
+    },    {
+        "title": "The advantage of sphygmomanometer is",
+        "answer_1": "Accuracy",
+        "answer_2": "simplicity",
+        "answer_3": "safety",
+        "answer_4": "light weight",
+        "right_answer": "safety"
+    },    {
+        "title": "One factor affecting blood pressure",
+        "answer_1": "Volume of blood in body",
+        "answer_2": "Volume of water in body",
+        "answer_3": "Sugar content of body",
+        "answer_4": "Body temperature",
+        "right_answer": "Volume of water in body"
+    },    {
+        "title": "Blood pressure is",
+        "answer_1": "High/low",
+        "answer_2": "Diastolic/systolic",
+        "answer_3": "Low/High",
+        "answer_4": "Systolic/diastolic",
+        "right_answer": "Systolic/diastolic"
+    },    {
+        "title": "The charge created on the surface of the piezoelectric transducer equal to",
+        "answer_1": "Charge sensitivity/ force",
+        "answer_2": "Force/ charge sensitivity",
+        "answer_3": "Charge sensitivity x force",
+        "answer_4": "Charge sensitivity x voltage",
+        "right_answer": "Charge sensitivity x force"
+    },    {
+        "title": "The piezoelectric element, when applied to voltage it",
+        "answer_1": "Generates voltage",
+        "answer_2": "Generates infrared",
+        "answer_3": "Generates sound waves",
+        "answer_4": "Generates charges",
+        "right_answer": "Generates sound waves"
+    },    {
+        "title": "Wheatstone bridge converts the pressure or temperature to",
+        "answer_1": "Current",
+        "answer_2": "Resistance",
+        "answer_3": "Voltage",
+        "answer_4": "power",
+        "right_answer": "Voltage"
+    },    {
+        "title": "The sensitivity of quarter Wheatstone bridge is",
+        "answer_1": "Excitation Voltage/2(2z+ ∆ z)",
+        "answer_2": "Excitation voltage /2 Z",
+        "answer_3": "Excitation voltage / Z",
+        "answer_4": " Excitation Voltage/(2z+ ∆ z)",
+        "right_answer": "Excitation Voltage/2(2z+ ∆ z)"
+    },    {
+        "title": "The body temperature in Fahrenheit",
+        "answer_1": "89.6",
+        "answer_2": "98.6",
+        "answer_3": "86.9",
+        "answer_4": "89.8",
+        "right_answer": "98.6"
+    },    {
+        "title": "RTDs are ……Sensitivity compared to thermocouple",
+        "answer_1": "Low",
+        "answer_2": "High",
+        "answer_3": "Equal to",
+        "answer_4": "Not",
+        "right_answer": "Low"
+    },    {
+        "title": "The error in temperature reading in case of lead errors is",
+        "answer_1": "Rlead/R0",
+        "answer_2": "Rlead/Ro",
+        "answer_3": "2Rlead/ αRo",
+        "answer_4": "Rlead/ 2αRo",
+        "right_answer": "2Rlead/ αRo"
+    },    {
+        "title": "What is not a solution to self heating errors",
+        "answer_1": "Reduce the excitation voltage",
+        "answer_2": "Increase the bridge resistance",
+        "answer_3": "Increase the excitation voltage",
+        "answer_4": "Increase the nominal resistors",
+        "right_answer": "Increase the excitation voltage"
+    },    {
+        "title": "Potentiometer works on which of the following principles ?",
+        "answer_1": "Variable resistance",
+        "answer_2": "Variable inductance",
+        "answer_3": "Variable capacitance",
+        "answer_4": "Variable electromagnet",
+        "right_answer": "Variable resistance"
+    },    {
+        "title": "As the distance between plates of moving capacitor increases, the capacitance",
+        "answer_1": "Decreases",
+        "answer_2": "Increases",
+        "answer_3": "Doubled",
+        "answer_4": "Not changed",
+        "right_answer": "Decreases"
+    },    {
+        "title": "Source of Bioelectric potential is ….. in nature in nature. ",
+        "answer_1": "Electronic",
+        "answer_2": "Electric",
+        "answer_3": "Ionic",
+        "answer_4": "Mechanical",
+        "right_answer": "Ionic"
+    },    {
+        "title": "The principle ion that is not involved with the phenomena of producing cell potential is",
+        "answer_1": "Sodium",
+        "answer_2": "potassium",
+        "answer_3": "Chlorine",
+        "answer_4": "Hydrogen",
+        "right_answer": "Hydrogen"
+    },    {
+        "title": " Biopotentials is an ………potential that is measured between points in living cells",
+        "answer_1": "Electronic",
+        "answer_2": "Electric",
+        "answer_3": "Ionic",
+        "answer_4": "Electrolyte",
+        "right_answer": "Electric"
+    },    {
+        "title": "- According to Fick’s law; the force that results in the movement of charges is called",
+        "answer_1": "Drift",
+        "answer_2": "Diffusion",
+        "answer_3": "Lateral",
+        "answer_4": "Axial",
+        "right_answer": "Diffusion"
+    },    {
+        "title": "In sodium potassium pump,",
+        "answer_1": "Sodium ions moves two to five times",
+        "answer_2": "Sodium ions moves into the cell than",
+        "answer_3": "Sodium ions moves two to five times out the cell than potassium ions in the cell",
+        "answer_4": "potassium ions moves two to five times out the cell than sodium ions in the cell",
+        "right_answer": "Sodium ions moves two to five times out the cell than potassium ions in the cell"
+    },    {
+        "title": "What is the frequency range of ECG",
+        "answer_1": "70-120 Hz",
+        "answer_2": "0.05 - 120 Hz",
+        "answer_3": "5 - 120 Hz",
+        "answer_4": "12 - 120 hz",
+        "right_answer": "0.05 - 120 Hz"
+    },    {
+        "title": "Ag-AgCl electrodes are",
+        "answer_1": "Polarized",
+        "answer_2": "Non polarized",
+        "answer_3": "Partialy polarized",
+        "answer_4": "can not be said",
+        "right_answer": "Non polarized"
+    },    {
+        "title": "Silver-silver chloride electrodes are prepared by the process of",
+        "answer_1": "centrifugation",
+        "answer_2": "etching",
+        "answer_3": "manually",
+        "answer_4": "electrolysis",
+        "right_answer": "electrolysis"
+    },    {
+        "title": "Recording electrical activities associated with heart is known as",
+        "answer_1": "EEG",
+        "answer_2": "EOG",
+        "answer_3": "EMG",
+        "answer_4": "ECG",
+        "right_answer": "ECG"
+    },    {
+        "title": "Before placing the electrodes, the skin should be",
+        "answer_1": "Wet",
+        "answer_2": "Dry",
+        "answer_3": "Oily",
+        "answer_4": "Hairly",
+        "right_answer": "Dry"
+    },    {
+        "title": "What is not a characteristic of ECG electrode",
+        "answer_1": "Immunity to external interference",
+        "answer_2": "Ease of making contact with skin",
+        "answer_3": "Low cost",
+        "answer_4": "Must affect the tissue",
+        "right_answer": "Must affect the tissue"
+    },    {
+        "title": "The amount of current flowing through the electrode",
+        "answer_1": "-70 mA",
+        "answer_2": "70 mA",
+        "answer_3": "0",
+        "answer_4": "1 mA",
+        "right_answer": "0"
+    },    {
+        "title": "The electrode double layer is ",
+        "answer_1": "Positive Silver ions and negative chloride ions",
+        "answer_2": "Positive Silver ions and positive chloride ions",
+        "answer_3": "Negative Silver ions and positive chloride ions",
+        "answer_4": "Negative Silver ions and positive chloride ions",
+        "right_answer": "Positive Silver ions and negative chloride ions"
+    },    {
+        "title": "In Ideal OPAMP which is not valid ",
+        "answer_1": "Infinite loop gain",
+        "answer_2": "Infinite input impedance",
+        "answer_3": "Finite bandwidth",
+        "answer_4": "No phase distortion",
+        "right_answer": "Finite bandwidth"
+    },    {
+        "title": "For IA the CMRR ",
+        "answer_1": "0",
+        "answer_2": "1",
+        "answer_3": "infinity",
+        "answer_4": "10",
+        "right_answer": "infinity"
+    },    {
+        "title": "In case of common mode voltage not equal zero, the output voltage of IA",
+        "answer_1": "ACVC",
+        "answer_2": "AdVd",
+        "answer_3": "AcVc-AdVd",
+        "answer_4": "AcVc+AdVd",
+        "right_answer": "AcVc+AdVd"
+    },    {
+        "title": "Conducts the electrical impulse to Atrioventricular Atrioventricular Sinoatrial node Bundles of HIS",
+        "answer_1": "Atrioventricular",
+        "answer_2": " Purkinje fibers ",
+        "answer_3": "Sinoatrial node",
+        "answer_4": "Bundles of HIS",
+        "right_answer": " Purkinje fibers "
+    },    {
+        "title": "ECG waveform consists of a series of … corresponding to different phases of the cardiac cycle. corresponding to different phases of the cardiac",
+        "answer_1": "Samples",
+        "answer_2": "Frequencies",
+        "answer_3": "Amplitudes",
+        "answer_4": "Waves",
+        "right_answer": "Waves"
+    },    {
+        "title": "The wave precedes the depolarization of the atria",
+        "answer_1": "QRS",
+        "answer_2": "QT",
+        "answer_3": "T",
+        "answer_4": "P",
+        "right_answer": "P"
+    },    {
+        "title": "The wave marks ventricular repolarization",
+        "answer_1": "QRS",
+        "answer_2": "QT",
+        "answer_3": "T",
+        "answer_4": "PR",
+        "right_answer": "T"
+    },    {
+        "title": "Which of the following is not provided by the monitoring ECG",
+        "answer_1": "Early warning of arrhythmias",
+        "answer_2": "Treatment feedback",
+        "answer_3": "Database of ECG records",
+        "answer_4": "Wide bandwidth",
+        "right_answer": "Wide bandwidth"
+    },    {
+        "title": "The bandwidth of the monitoring ECG is",
+        "answer_1": "0.05 - 120 Hz",
+        "answer_2": "0.5 - 40 Hz",
+        "answer_3": "0.05 - 40 Hz",
+        "answer_4": "0.5 - 120 Hz",
+        "right_answer": "0.5 - 40 Hz"
+    },    {
+        "title": "Which can be used to remove noise from power line on ECG waveform",
+        "answer_1": "Filters",
+        "answer_2": "IA",
+        "answer_3": "ADC",
+        "answer_4": "Electrodes",
+        "right_answer": "Filters"
+    },    {
+        "title": "There is a virtual…………between the 220 V power line and the lead of ECG.",
+        "answer_1": "Resistors",
+        "answer_2": "capacitors",
+        "answer_3": "inductors",
+        "answer_4": "currents",
+        "right_answer": "capacitors"
+    },    {
+        "title": "To reduce the power line interference, we can not",
+        "answer_1": "Reduce the power line voltage",
+        "answer_2": "Use identical electrode",
+        "answer_3": "Shield lead wires",
+        "answer_4": "Isolate the lead wires",
+        "right_answer": "Reduce the power line voltage"
+    },    {
+        "title": " How to reduce the problem of non ideal IA",
+        "answer_1": "Use identical electrodes",
+        "answer_2": "Shield lead wires",
+        "answer_3": "Isolate lead wires",
+        "answer_4": "Use active cancellation",
+        "right_answer": "Use active cancellation"
+    },    {
+        "title": "We can control the CM voltage in active cancelation method by",
+        "answer_1": "Maximize the feedback resistor of U4",
+        "answer_2": "Minimize the feedback resistor of U4",
+        "answer_3": "Maximize the IM input impedance",
+        "answer_4": "Minimize the IM input impedance",
+        "right_answer": "Maximize the feedback resistor of U4"
+    },    {
+        "title": "Which is not a source of EMI surrounding ECG device",
+        "answer_1": "Electrosurgical units",
+        "answer_2": "Radio broadcasting",
+        "answer_3": "Laptop",
+        "answer_4": "Cellular phones",
+        "right_answer": "Laptop"
+    },     {
+        "title": "The aim of protection circuit in ECG device",
+        "answer_1": "Save the patient",
+        "answer_2": "Save the clinic",
+        "answer_3": "Save the doctor",
+        "answer_4": "Save the ECG device",
+        "right_answer": "Save the ECG device"
+    },      {
+        "title": "The current limiter used in protection circuit is",
+        "answer_1": "Low impedance",
+        "answer_2": "High impedance",
+        "answer_3": "Low current",
+        "answer_4": "Low voltage",
+        "right_answer": "High impedance"
+    },      {
+        "title": "Electrodes to measure EEG are placed on",
+        "answer_1": "forehead",
+        "answer_2": "scalp",
+        "answer_3": "cheek",
+        "answer_4": "ears",
+        "right_answer": "scalp"
+    }
+]
